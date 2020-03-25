@@ -2,6 +2,8 @@
 
 ### Docker
 
+Docker Ram > 3 Gb.
+
 ```
 docker build -t pee-numer .
 ```  
